@@ -1,0 +1,43 @@
+body{
+    background-color:lightblue
+}
+
+img{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    margin-bottom: 15px;
+}
+
+#contact{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: pink;
+    width:600px;
+    height:27px;
+    margin: auto
+}
+
+table{
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+    border:1px black solid;
+    padding: 6px;
+    font-family: 'Fjalla One', sans-serif;
+}
+#emails{
+    font-size: medium;
+    text-align: center;
+    font-family: fantasy;
+    background-color: #ecd36f;
+    width:700px;
+    height: 19px;
+    margin-left: auto;
+    margin-right:auto;
+    
+}
